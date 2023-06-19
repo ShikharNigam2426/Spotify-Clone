@@ -191,7 +191,13 @@ h6 {
     #currentPlayingSong {
       font-size: small;
     }
-
+    .col{
+      height: 4.3vh!important;
+    }
+    
+    .song img{
+      height: 32px;
+    }
   }
 
   @media (max-width: 376px) {
@@ -230,6 +236,12 @@ h6 {
 
     #currentPlayingSong {
       font-size: small;
+    }
+    .col{
+      height: 4.3vh!important;
+    }
+    .song img{
+      height: 32px;
     }
   }
 
